@@ -1,0 +1,3 @@
+psycopg[binary,pool]==3.2.12
+psycopg-pool==3.3.3
+numpy==2.3.4

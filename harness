@@ -1,0 +1,4 @@
+#!/bin/sh
+# Keep the supplied harness unmodified; resolve its imports from any working directory.
+ROOT=$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)
+PYTHONDONTWRITEBYTECODE=1 PYTHONPATH="$ROOT/starter-kit${PYTHONPATH:+:$PYTHONPATH}" exec python3 -m harness_lib "$@"
