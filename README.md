@@ -1,4 +1,4 @@
-Video: pending recording and upload. Add the unlisted link here before submission.
+Video: [https://youtu.be/maPbUQdFjqU](https://youtu.be/maPbUQdFjqU)
 
 # Engramme Take-Home — Submission
 
